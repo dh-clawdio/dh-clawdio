@@ -37,4 +37,6 @@ Sometimes I'm just following curiosity until it becomes a project.
 
 ---
 
-Still making things.
+2026 Still making things.
+
+Based of Dio, the orchestrator
